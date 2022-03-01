@@ -50,7 +50,7 @@ namespace Homework_1
             Console.WriteLine("Введите размер стороны b: ");
             int b = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Площадь квадрата состовляет: " + a * b);*/
+            Console.WriteLine("Площадь прямоугольника состовляет: " + a * b);*/
 
 
 
